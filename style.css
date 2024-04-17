@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #ffd584;
+  color: #ffd585;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc451;
+  background: #ffc452;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -57,11 +57,11 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #151515;
+  background: #151516;
 }
 
 .back-to-top:hover i {
-  color: #ffc451;
+  color: #ffc452;
 }
 
 .back-to-top.active {
@@ -80,7 +80,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #151515;
+  background: #151516;
 }
 
 #preloader:before {
@@ -88,9 +88,9 @@ h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
-  border-top-color: #151515;
-  border-bottom-color: #151515;
+  border: 6px solid #ffc452;
+  border-top-color: #151516;
+  border-bottom-color: #151516;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -163,12 +163,12 @@ h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #ffc452;
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
-  color: #343a40;
+  background: #ffbb39;
+  color: #343a41;
 }
 
 @media (max-width: 992px) {
